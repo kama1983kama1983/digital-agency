@@ -14,13 +14,14 @@ This template should help get you started developing with Vue 3 in Vite.
 See [Vite Configuration Reference](https://vite.dev/config/).
 
 ## Project Setup
-
+express js start server 
 ```sh
-npm install
+cd server
+npm start
 ```
 
 ### Compile and Hot-Reload for Development
-
+start project fronend 
 ```sh
 npm run dev
 ```
@@ -30,4 +31,7 @@ npm run dev
 ```sh
 npm run build
 ```
->>>>>>> a0159b6 (Initial commit)
+
+```sh
+npm start
+```
